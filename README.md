@@ -1,6 +1,5 @@
 <head>
 	<meta charset="utf-8" />
-	<title>Candy Crush Saga</title>
 	<link rel="stylesheet" type="text/css" href="estilof.css">   
 </head>
 <body>
@@ -54,40 +53,5 @@
 		</p>
 			<b>Comercial</b><br>
 			<p>Candy Crush Saga teve mais de dez milhões de downloads em dezembro de 2012.Em julho de 2013, estimou-se que Candy Crush Saga na época tinha cerca de 6,7 milhões de usuários ativos e obteve uma receita de 633 000 de dólares por dia na seção dos americana do iOS App Store sozinho.De acordo com o Business Insider, Candy Crush Saga foi o aplicativo mais baixado do iOS em 2013.Em 2014, jogadores de Candy Crush Saga gastaram mais de 1,33 bilhões de dólares em compras dentro do aplicativo, que foi um declínio em relação ao ano anterior, uma vez que somente no segundo semestre de 2013, os jogadores gastaram mais de 1,04 bilhões de dólares.Em 2 de novembro de 2016 a Activision adquiriu a King (empresa produtora do jogo) por USD 5.9 bilhões sendo assim uma das maiores aquisições do ano.<p><br>
-
-			<b>Outras Sagas</b><br>
-			<p>Com o sucesso de Candy Crush Saga, a desenvolvedora King criou variações com novas opções de bônus e jogabilidades, além de inserir desafios e personagens notáveis como Cupcake Carl. Apesar da ação dos outros games ter mesma base do jogo original, suas ações ocorrem em aplicativos completamente separados. Até o momento foram lançadas três variações: Candy Crush Soda Saga, lançado em 20 de outubro de 2014, Candy Crush Jelly Saga, lançado em 7 de janeiro de 2016 e Candy Crush Friends Saga, lançado em 4 de setembro de 2017.</p><br>
-			<p><em>Fonte: Wikipedia</em></p>
-		</section>
-			</div>
-			<div class="coluna col5">
-			<h3>Ultimas noticias</h3>
-			<ul class="sem-marcador sem-padding noticias">
-				<li>
-					<img src="saga.jpg" alt="ambiente" />
-					<h4><strong>SÉRIE CANDY CRUSH GEROU MAIS DE US$ 1,5 BILHÃO EM RECEITA DURANTE 2018</strong></h4>
-					<p>Embora o primeiro Candy Crush tenha sido lançado em 2012, a franquia de games mobile continua rendendo financeiramente -- e muito. Um recente relatório do Sensor Tower indica que a série de jogos gerou mais de US$ 1,5 bilhão em receita durante 2018 -- aproximadamente US$ 4,2 milhões por dia. Esse valor representa um aumento de 6,5% em comparação com o ano anterior.<a href="https://br.ign.com/candy-crush/69938/news/serie-candy-crush-gerou-mais-de-us-15-bilhao-em-receita-dura">Leia mais &raquo</a></p>
-				</li>
-				<li>
-					<img src="candy.jpg" alt="ambiente" />
-					<h4><strong>Candy Crush faturou mais que Pokémon Go e Fortnite em 2018, diz pesquisa</strong></h4>
-					<p>Achou que Candy Crush estava fora da briga? Achou errado: de acordo com estimativas divulgadas por uma pesquisa do Sensor Tower, que faz auditoria do mercado mobile, o jogo fechou 2018 com nada menos que US$ 1.5 bilhão em dinheiro vindo de jogadores. Isso deixa sucessos como Pokémon Go e Fortnite pra trás.<a href="https://www.tecmundo.com.br/dispositivos-moveis/137780-candy-crush-faturou-pokemon-go-fortnite-2018-diz-pesquisa.htm">Leia mais &raquo</a></p>
-				</li>
-				<li>
-					<img src="crush.jpg" alt="ambiente" />
-					<h4><strong>Angry Birds, Candy Crush e mais; 10 jogos clássicos para celular que viciam</strong></h4>
-					<p>Android e iOS contam com uma incrível oferta de jogos disponíveis via Google Play e App Store, suas lojas oficiais de apps. Além de novidades lançadas diariamente nas plataformas, os usuários também podem curtir clássicos como Angry Birds, Fruit Ninja e Plants vs Zombies, que ainda fazem sucesso entre os jogadores mobile. Confira a lista com os maiores clássicos dos celulares.<a href="https://www.techtudo.com.br/listas/2019/04/angry-birds-candy-crush-e-mais-10-jogos-classicos-para-celular-que-viciam.ghtml">Leia mais &raquo</a></p>
-									</li>
-								</ul>
-							</div>
-						</div>
-					</div>
-						<div class="footer">
-						<div class="linha">
-						<footer>
-							<div class="coluna col12">
-								<span>&copy; Nenhum Direito Reservado - 2019 - Brasil </span>
-						</div>
-						</footer>
 </body>
 </html>
