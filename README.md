@@ -10,7 +10,7 @@
 					<h1 class="logo">Candy Crush Saga</h1>
 				</div>
 				<div class="coluna col8">
-					 <img src="candy.jpg">
+					 :tada:
 				<nav>
 				<ul class="menu inline sem-marcador">
 					<li><a href="https://community.king.com">Site oficial</a></li>
@@ -38,7 +38,7 @@
 			</div>
 			<div class="coluna col9">
 				<h2>Sobre o jogo</h2>
-				<img src="crush.jpg" alt="tela inicial" />
+				🧁
 				<p> Candy Crush Saga é um jogo de puzzle lançado pela King em 12 de abril de 2012 para Facebook, em 6 de setembro de 2012 para Windows Phone, em 14 de novembro de 2012 para iOS, em 14 de dezembro de 2012 para Android, em 11 de setembro de 2014 para Fire OS e em 29 de julho de 2015 para Windows 10 e Tizen.</p>
 				<a href="https://pt.wikipedia.org/wiki/Candy_Crush_Saga" class="botao">Veja mais &raquo;</a>
 				</div>
